@@ -238,13 +238,14 @@ footer a:hover {
     color: lightpink;
 }
 
-/* Media queries for 1000px and 768px */
+/* Media queries for 1000px desktop view */
 @media screen and (max-width: 1000px) {
     .bigtext {
         bottom: -5%;
     }
 }
 
+/* Media queries for 768px iphone view */
 @media screen and (max-width: 768px) {
     h1 {
         font-size: 40px;
